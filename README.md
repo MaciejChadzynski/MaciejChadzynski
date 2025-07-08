@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Maciej!
 
-<!--
-**MaciejChadzynski/MaciejChadzynski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Beginner Frontend Developer  
+📚 Learning HTML, CSS, and JavaScript  
+🎨 Currently working on projects from Scrimba and Frontend Mentor  
+💪 Actively improving my skills to become a professional web developer  
 
-Here are some ideas to get you started:
+## 📂 My Certificates:
+- [Responsive Web Design Certificate (freeCodeCamp)](https://www.freecodecamp.org/certification/Vax_Man/responsive-web-design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Practice Projects:
+- [CodePen Portfolio](https://codepen.io/Maciej-Chdzyski)
+
+---
+
+Thanks for stopping by!  
+Feel free to explore my repositories and follow my progress.
